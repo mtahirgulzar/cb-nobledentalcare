@@ -15,6 +15,7 @@ export default function ContactDetail({ servicesData }) {
     message: "",
     email: "",
   });
+  
   const [btnDis, setBtnDis] = useState(false);
   useEffect(() => {
     if (

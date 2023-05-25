@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nobledentalcares.com/
+Host: http://localhost:3000/
 
 # Sitemaps
-Sitemap: https://nobledentalcares.com/sitemap.xml
+Sitemap: http://localhost:3000/sitemap.xml
