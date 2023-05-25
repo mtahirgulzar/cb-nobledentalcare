@@ -1,0 +1,6 @@
+/* .cusHover:hover{
+    color: #E7DABF;
+} */
+.cusHover:hover .hoverText{
+    color:#17786C !important
+}

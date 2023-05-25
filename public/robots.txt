@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nobledentalcares.com/
+
+# Sitemaps
+Sitemap: https://nobledentalcares.com/sitemap.xml
